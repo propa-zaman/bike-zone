@@ -1,3 +1,7 @@
 .bz-light-red{
     background-color: rgb(237, 160, 160);
 }
+
+.rating{
+    width: 5%;
+}
